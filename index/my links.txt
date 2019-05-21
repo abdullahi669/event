@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<head>
+<body bgcolor="123456"
+<b>
+<i>
+<u>
+<marquee>
+<h1>
+<br>
+why always me
+<p>
+<center>
+<br>
+<H1>
+helo how are you 
+are you doing 
+how is everything
+i hope every thing is fine
+okay
+</p>
+</br>
+</p>
+</center>
+</u>
+</h1>
+</marquee>
+</i>
+</b>
+<br>
+<select>
+<option value="Select the day">Select the day</option>
+<option value="1">1</Option>
+<option value="2">2</Option>
+<option value="3">3</Option>
+<option value="4">4</Option>
+<option value="5">5</Option>
+<option value="6">6</Option>
+<option value="7">7</Option>
+<option value="8">8</Option>
+<option value="9">9</Option>
+<option value="10">10</Option>
+<option value="11">11</Option>
+<option value="12">12</Option>
+<option value="13">13</Option>
+<option value="14">14</Option>
+<option value="15">15</Option>
+<option value="16">16</Option>
+<option value="17">17</Option>
+<option value="18">18</Option>
+<option value="19">19</Option>
+<option value="20">20</Option>
+<option value="21">21</Option>
+<option value="22">22</Option>
+<option value="23">23</Option>
+<option value="24">24</Option>
+<option value="25">25</Option>
+<option value="26">26</Option>
+<option value="27">27</Option>
+<option value="28">28</Option>
+<option value="29">29</Option>
+<option value="30">30</Option>
+<option value="31">31</Option>
+</select>
+<select>
+<option value="Select the months">Select the months</option>
+<option value="jan">january</Option>
+<option value="feb">febuary</Option>
+<option value="mar">march</Option>
+<option value="april">april</Option>
+<option value="may">may</Option>
+<option value="june">june</Option>
+<option value="jul">july</Option>
+<option value="aug">august</Option>
+<option value="sept">september</Option>
+<option value="oct">october</Option>
+<option value="nov">novermber</Option>
+<option value="dec">december</Option>
+</select>
+<select>
+<option value="Select the year">Select the years</option>
+<option value="2000">2000</Option>
+<option value="200">2001</Option>
+<option value="2002">2002</Option>
+<option value="2003">2003</Option>
+<option value="2004">2004</Option>
+<option value="2005">2005</Option>
+<option value="2006">2006</Option>
+<option value="2007">2007</Option>
+<option value="2008">2008</Option>
+<option value="2009">2009</Option>
+<option value="2010">2010</Option>
+<option value="2011">2011</Option>
+<option value="2012">2012</Option>
+<option value="2013">2014</Option>
+<option value="2014">2014</Option>
+<option value="2000">2015</Option>
+<option value="2000">2016</Option>
+<option value="2000">2017</Option>
+<option value="2000">2018</Option>
+</select>
+<p>
+<form>fname<input type="text" name="fname">
+<lname>lname<input type="text"name="lname">
+</p>
+<form><input type="submit"value="submit">
+</form>
+<p>
+<input type="reset" value="reset">
+</form><br>
+<textarea  rons="20"col="15">
+leave your comment here please
+</textarea>
+</form>
+<p>
+<form>
+<fieldset>
+my personal identification
+<legend>
+fname<input type"text" name="fname"><br>
+<input type="submit"value="submit"><br>
+</legend>
+</field>
+</form>
+</body>
+</head>
+</html>
